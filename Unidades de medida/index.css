@@ -1,0 +1,17 @@
+.cuadrado{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+
+.rectangulo{
+    background-color: red;
+    width: 50vw;
+    height: 200px;
+}
+
+.rectangulo2{
+    background-color: purple;
+    height: 200px;
+    width: 50%;
+}
